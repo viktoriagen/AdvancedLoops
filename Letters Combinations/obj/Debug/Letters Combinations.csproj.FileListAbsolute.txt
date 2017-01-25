@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Letters Combinations\bin\Debug\Letters Combinations.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Letters Combinations\bin\Debug\Letters Combinations.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Letters Combinations\bin\Debug\Letters Combinations.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Letters Combinations\obj\Debug\Letters Combinations.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Letters Combinations\obj\Debug\Letters Combinations.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\EXAM\Letters Combinations\obj\Debug\Letters Combinations.pdb

@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\prime\bin\Debug\prime.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\prime\bin\Debug\prime.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\prime\bin\Debug\prime.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\prime\obj\Debug\prime.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\prime\obj\Debug\prime.pdb

@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Number in Range1...100\bin\Debug\Number_in_Range1._._._100.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Number in Range1...100\bin\Debug\Number_in_Range1._._._100.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Number in Range1...100\bin\Debug\Number_in_Range1._._._100.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Number in Range1...100\obj\Debug\Number_in_Range1._._._100.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Number in Range1...100\obj\Debug\Number_in_Range1._._._100.pdb

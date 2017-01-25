@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Numbers N...1\obj\Debug\Numbers_N._._._1.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Numbers N...1\obj\Debug\Numbers_N._._._1.pdb

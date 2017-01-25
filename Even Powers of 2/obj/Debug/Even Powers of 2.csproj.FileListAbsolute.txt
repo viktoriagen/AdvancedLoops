@@ -1,0 +1,5 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Even Powers of 2\bin\Debug\Even Powers of 2.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Even Powers of 2\bin\Debug\Even Powers of 2.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Even Powers of 2\bin\Debug\Even Powers of 2.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Even Powers of 2\obj\Debug\Even Powers of 2.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Even Powers of 2\obj\Debug\Even Powers of 2.pdb
