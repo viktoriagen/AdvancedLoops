@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Check Prime\bin\Debug\Check Prime.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Check Prime\bin\Debug\Check Prime.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Check Prime\bin\Debug\Check Prime.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Check Prime\obj\Debug\Check Prime.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Check Prime\obj\Debug\Check Prime.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Check Prime\obj\Debug\Check Prime.pdb

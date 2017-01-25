@@ -1,0 +1,6 @@
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Enter Even Number\bin\Debug\Enter Even Number.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Enter Even Number\bin\Debug\Enter Even Number.pdb
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Enter Even Number\obj\Debug\Enter Even Number.csprojResolveAssemblyReference.cache
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Enter Even Number\obj\Debug\Enter Even Number.exe
+C:\Users\bg900720\Desktop\VG\SoftUni\Basic\Projects\7AdvancedLoops\Enter Even Number\obj\Debug\Enter Even Number.pdb
